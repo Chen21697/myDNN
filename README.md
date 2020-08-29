@@ -6,7 +6,7 @@
   - 1 neuron
 - Two hidden layer
   - 10 neurons for each
-  - ***tanh*** as optimizer for each
+  - ***tanh*** as activation functions
 - One output layer
   - 1 neuron
 - Loss function
